@@ -22,7 +22,8 @@ data = ["kml"]
     # This defines the maps INSIDE the "default" profile
 # ✅ Correct
 [[profiles.default.maps]]
-map = "VOMF_TWR"   # <--- Change 'name' to 'map'
+map = "VOMF_TWR"
+target = "VOMF_TWR.ese"  # <--- Add this line!
 layers = [
   "Runways",
   "Taxiways",
