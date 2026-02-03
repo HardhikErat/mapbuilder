@@ -1,0 +1,9 @@
+[data]
+path = "mapdata"
+
+[[data.source]]
+type = "kml"
+path = "mapdata"
+
+[target]
+path = "output"

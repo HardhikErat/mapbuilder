@@ -1,9 +1,0 @@
-[data]
-path = "."
-
-[[data.source]]
-type = "kml"
-path = "."
-
-[target]
-path = "../output"
