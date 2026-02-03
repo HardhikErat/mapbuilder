@@ -4,7 +4,7 @@ fir = "VOMF"
 center = [12.95, 77.64]
 magnetic_variation = 0.0
 
-[data]
+[data.kml]
 type = "kml"
 path = "data"
 
