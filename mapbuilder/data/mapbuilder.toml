@@ -1,9 +1,9 @@
 [data]
 path = "."
 
-[data.data_source]
+[[data.data_source]]
 type = "kml"
 path = "."
 
 [target]
-path = "../../output"
+path = "../output"
