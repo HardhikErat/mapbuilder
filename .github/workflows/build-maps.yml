@@ -1,0 +1,24 @@
+name: Build EuroScope maps
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build-maps:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run MapBuilder
+        uses: vatger-nav/mapbuilder@main
+        with:
+          source-path: mapbuilder/data
+          target-path: output
+
+      - name: Upload output
+        uses: actions/upload-artifact@v4
+        with:
+          name: euroscope-maps
+          path: output
