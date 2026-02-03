@@ -7,7 +7,7 @@ magnetic_variation = 0.0
 [data.kml]
 type = "kml"
 source = "kml"
-path = "data"
+path = "kml"
 
 [output]
 format = "euroscope"
