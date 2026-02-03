@@ -13,3 +13,6 @@ jobs:
 
       - name: Run MapBuilder
         uses: vatger-nav/mapbuilder@main
+        with:
+          source-path: mapdata
+          target-path: output
