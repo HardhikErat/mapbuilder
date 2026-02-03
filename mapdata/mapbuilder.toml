@@ -1,9 +1,12 @@
+[general]
+icao = "VOMF"
+fir = "VOMF"
+center = [12.95, 77.64]
+magnetic_variation = 0.0
+
 [data]
-path = "mapdata"
-
-[[data.source]]
 type = "kml"
-path = "mapdata"
+path = "data"
 
-[target]
-path = "output"
+[output]
+format = "euroscope"
