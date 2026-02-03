@@ -1,0 +1,9 @@
+[data]
+path = "mapbuilder/data"
+
+[data.data_source]
+type="kml"
+path = "mapbuilder/data"
+
+[target]
+path="output"
