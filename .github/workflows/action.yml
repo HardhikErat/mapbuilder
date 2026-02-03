@@ -1,10 +1,10 @@
 name: Docker Action
 
 on:
-  pull_request:
   push:
-    branches:
-      - main
+    branches: [ main ]
+  workflow_dispatch:
+
 
 env:
   CI_PROJECT_PATH: vatger-nav/mapbuilder
