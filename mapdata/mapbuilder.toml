@@ -15,3 +15,12 @@ format = "euroscope"
 [[profiles]]
 name = "default"
 data = ["kml"]
+
+[[profiles.maps]]
+name = "VOMF_TWR"
+layers = [
+  "Runways",
+  "Taxiways",
+  "Aprons",
+  "Hold Short"
+]
