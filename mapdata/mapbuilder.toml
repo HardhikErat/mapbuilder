@@ -2,7 +2,7 @@
 icao = "VOMF"
 fir = "VOMF"
 center = [12.95, 77.64]
-magnetic_variation = 0.0
+magnetic_variation = 1.0
 
 [data.kml]
 type = "kml"
@@ -12,12 +12,13 @@ source = "VOMF.kml"
 [output]
 format = "euroscope"
 
-[profiles.default]
+[[profiles]]
+name = "default"
 data = ["kml"]
 
-[[profiles.default.maps]]
-map = "VOMF_TWR"
-target = "VOMF_TWR.ese"
+[[maps]]
+profile = "default"
+name = "VOMF_TWR"
 layers = [
   "Runways",
   "Taxiways",
