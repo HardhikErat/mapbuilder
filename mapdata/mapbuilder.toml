@@ -11,3 +11,7 @@ source = "VOMF.kml"
 
 [output]
 format = "euroscope"
+
+[[profiles]]
+name = "default"
+data = ["kml"]
