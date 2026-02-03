@@ -254,6 +254,7 @@
 				<Folder>
 					<name>Groundlayout</name>
 					<Folder>
+						<name>RunwayBorder</name>
 						<Placemark>
 							<name>RunwayBorder 1)</name>
 							<description>RunwayBorder</description>
@@ -845,6 +846,7 @@
 				<Folder>
 					<name>Groundlayout</name>
 					<Folder>
+						<name>Taxiways</name>
 						<Placemark>
 							<name>Taxiway 1)</name>
 							<description>Taxiway</description>
@@ -8147,6 +8149,7 @@
 				<Folder>
 					<name>Groundlayout</name>
 					<Folder>
+						<name>Taxiways</name>
 						<Placemark>
 							<name>Taxiway 1)</name>
 							<description>Taxiway</description>
@@ -8331,6 +8334,7 @@
 				<Folder>
 					<name>Groundlayout</name>
 					<Folder>
+						<name>Taxiways</name>
 						<Placemark>
 							<name>Taxiway 1)</name>
 							<description>Taxiway</description>
@@ -8735,6 +8739,7 @@
 				<Folder>
 					<name>Groundlayout</name>
 					<Folder>
+						<name>RunwayBorders</name>
 						<Placemark>
 							<name>RunwayBorder 1)</name>
 							<description>RunwayBorder</description>
@@ -10019,6 +10024,7 @@
 				<Folder>
 					<name>Groundlayout</name>
 					<Folder>
+						<name>Taxiways</name>
 						<Placemark>
 							<name>Untitled Path</name>
 							<description>Taxiway</description>
@@ -11160,6 +11166,7 @@
 				<Folder>
 					<name>Groundlayout</name>
 					<Folder>
+						<name>RunwayBorders</name>
 						<Placemark>
 							<name>RunwayBorder 1)</name>
 							<description>RunwayBorder</description>
@@ -12433,6 +12440,7 @@
 				<Folder>
 					<name>Groundlayout</name>
 					<Folder>
+						<name>Taxiways</name>
 						<Placemark>
 							<name>Taxiway 1)</name>
 							<description>Taxiway</description>
@@ -12628,6 +12636,7 @@
 				<Folder>
 					<name>Groundlayout</name>
 					<Folder>
+						<name>Taxiways</name>
 						<Placemark>
 							<name>Untitled Path</name>
 							<description>Taxiway</description>
@@ -13142,6 +13151,7 @@
 				<Folder>
 					<name>Groundlayout</name>
 					<Folder>
+						<name>Taxiways and RunwayBorders</name>
 						<Placemark>
 							<name>RunwayBorder 1)</name>
 							<description>RunwayBorder</description>
@@ -14140,6 +14150,7 @@
 				<Folder>
 					<name>Groundlayout</name>
 					<Folder>
+						<name>Taxiways and RunwayBorders</name>
 						<Placemark>
 							<name>RunwayBorder 1)</name>
 							<description>RunwayBorder</description>
@@ -14885,6 +14896,7 @@
 				<Folder>
 					<name>Groundlayout</name>
 					<Folder>
+						<name>Taxiways</name>
 						<Placemark>
 							<name>Taxiway 1)</name>
 							<description>Taxiway</description>
@@ -15113,6 +15125,7 @@
 				<Folder>
 					<name>Groundlayout</name>
 					<Folder>
+						<name>Taxiways</name>
 						<Placemark>
 							<name>Untitled Path</name>
 							<description>Taxiway</description>
@@ -19961,6 +19974,7 @@
 				<Folder>
 					<name>Groundlayout</name>
 					<Folder>
+						<name>Runways</name>
 						<Placemark>
 							<name>RunwayBorder 1)</name>
 							<description>RunwayBorder</description>
@@ -21190,6 +21204,7 @@
 				<Folder>
 					<name>Groundlayout</name>
 					<Folder>
+						<name>RunwayBorder</name>
 						<Placemark>
 							<name>RunwayBorder 1)</name>
 							<description>RunwayBorder</description>
@@ -21429,6 +21444,7 @@
 				<Folder>
 					<name>Groundlayout</name>
 					<Folder>
+						<name>RunwayBorder</name>
 						<Placemark>
 							<name>RunwayBorder 1)</name>
 							<description>RunwayBorder</description>
@@ -23043,6 +23059,7 @@
 				<Folder>
 					<name>Groundlayout</name>
 					<Folder>
+						<name>RunwayBorder and Taxiway</name>
 						<Placemark>
 							<name>RunwayBorder 1)</name>
 							<description>RunwayBorder</description>
@@ -23458,6 +23475,7 @@
 				<Folder>
 					<name>Groundlayout</name>
 					<Folder>
+						<name>RunwayBorders</name>
 						<Placemark>
 							<name>RunwayBorder 1)</name>
 							<description>RunwayBorder</description>
@@ -24940,6 +24958,7 @@
 				<Folder>
 					<name>Groundlayout</name>
 					<Folder>
+						<name>Stopbars and Taxiways</name>
 						<Placemark>
 							<name>Stopbar 1)</name>
 							<description>Stopbar</description>
@@ -27093,6 +27112,7 @@
 				<Folder>
 					<name>Groundlayout</name>
 					<Folder>
+						<name>Taxiways and RunwayBorders</name>
 						<Placemark>
 							<name>Taxiway 1)</name>
 							<description>Taxiway</description>
@@ -27849,6 +27869,7 @@
 				<Folder>
 					<name>Groundlayout</name>
 					<Folder>
+						<name>Taxiways</name>
 						<Placemark>
 							<name>Taxiway 1)</name>
 							<description>Taxiway</description>
@@ -28066,6 +28087,7 @@
 				<Folder>
 					<name>Groundlayout</name>
 					<Folder>
+						<name>Taxiways</name>
 						<Placemark>
 							<name>RunwayBorder 1)</name>
 							<description>RunwayBorder</description>
@@ -29427,6 +29449,7 @@
 				<Folder>
 					<name>Groundlayout</name>
 					<Folder>
+						<name>Taxiways and Runways</name>
 						<Placemark>
 							<name>Taxiway 1)</name>
 							<description>Taxiway</description>
@@ -29600,6 +29623,7 @@
 				<Folder>
 					<name>Groundlayout</name>
 					<Folder>
+						<name>Taxiways and Runways</name>
 						<Placemark>
 							<name>Taxiway 1)</name>
 							<description>Taxiway</description>
@@ -29806,6 +29830,7 @@
 				<Folder>
 					<name>Groundlayout</name>
 					<Folder>
+						<name>Taxiways and Runways</name>
 						<Placemark>
 							<name>Taxiway 1)</name>
 							<description>Taxiway</description>
@@ -30034,6 +30059,7 @@
 				<Folder>
 					<name>Groundlayout</name>
 					<Folder>
+						<name>Taxiways and Runways</name>
 						<Placemark>
 							<name>Taxiway 1)</name>
 							<description>Taxiway</description>
@@ -30163,6 +30189,7 @@
 				<Folder>
 					<name>Groundlayout</name>
 					<Folder>
+						<name>Taxiways and Runways</name>
 						<Placemark>
 							<name>RunwayBorder 1)</name>
 							<description>RunwayBorder</description>
@@ -30292,6 +30319,7 @@
 				<Folder>
 					<name>Groundlayout</name>
 					<Folder>
+						<name>Taxiways and Runways</name>
 						<Placemark>
 							<name>RunwayBorder 1)</name>
 							<description>RunwayBorder</description>
@@ -30751,6 +30779,7 @@
 				<Folder>
 					<name>Groundlayout</name>
 					<Folder>
+						<name>Lines</name>
 						<Placemark>
 							<name>Untitled Path</name>
 							<description>Taxiway</description>
@@ -31606,6 +31635,7 @@
 				<Folder>
 					<name>Groundlayout</name>
 					<Folder>
+						<name>Taxiways</name>
 						<Placemark>
 							<name>Taxiway 1)</name>
 							<description>Taxiway</description>
@@ -32362,6 +32392,7 @@
 				<Folder>
 					<name>Groundlayout</name>
 					<Folder>
+						<name>Taxiways</name>
 						<Placemark>
 							<name>Taxiway 1)</name>
 							<description>Taxiway</description>
