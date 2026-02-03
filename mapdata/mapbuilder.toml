@@ -12,18 +12,12 @@ source = "VOMF.kml"
 [output]
 format = "euroscope"
 
-# --- FIXED SECTION BELOW ---
-
-# Use [profiles.default] instead of [[profiles]]
-# This makes "default" the key, not just a name inside a list.
 [profiles.default]
 data = ["kml"]
 
-    # This defines the maps INSIDE the "default" profile
-# ✅ Correct
 [[profiles.default.maps]]
 map = "VOMF_TWR"
-target = "VOMF_TWR.ese"  # <--- Add this line!
+target = "VOMF_TWR.ese"
 layers = [
   "Runways",
   "Taxiways",
